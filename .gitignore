@@ -1,0 +1,16 @@
+target/
+.git
+.idea
+.settings/
+.classpath
+.project
+
+*.iml
+*.log
+*.class
+
+*.rar
+*.jar
+*.war
+*.tar.gz
+hs_err_pid*
